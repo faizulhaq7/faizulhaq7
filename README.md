@@ -13,7 +13,7 @@ I am a Computer Science pre-final year student with a passion for technology and
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [faizulhaq7](https://www.linkedin.com/in/faizulhaq7)
-- **Twitter:** [faizulhaq7](https://twitter.com/faizulhaq7)
+- **Twitter:** [addfaiz7](https://twitter.com/addfaiz7)
 - **GitHub:** [faizulhaq7](https://github.com/faizulhaq7)
 
 ## 📧 Contact Me
