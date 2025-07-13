@@ -20,12 +20,12 @@ I am a Computer Science pre-final year student with a passion for technology and
 - **Email:** [imfaizulhaq@gmail.com](mailto:imfaizulhaq@gmail.com)
 
 ## 🏆 Achievements
-- Solved over **120+ problems** on LeetCode.
+- Solved over **200+ problems** on platforms like LeetCode and GFG.
 - Member of the **Event Organizing Committee** at NIET.
 
 ## 🎯 Hobbies
 - Exploring new technologies
-- Participating in coding competitions
 - Organizing events and workshops
+- Football and Gaming
 
 Feel free to reach out if you want to collaborate or just have a chat! 😊
