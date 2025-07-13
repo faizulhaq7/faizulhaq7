@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Faiz Ul Haq
 
-I am a Computer Science pre-final year student with a passion for technology and innovation. I love exploring new concepts in programming and applying them to real-world problems.
+I am a Computer Science final year student with a passion for technology and innovation. I love exploring new concepts in programming and applying them to real-world problems.
 
 ## 🛠️ Skills
 - **Programming Languages:** C++, Python
